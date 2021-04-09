@@ -1,0 +1,3 @@
+<echo>
+some text will be dispalyed 
+</echo>
